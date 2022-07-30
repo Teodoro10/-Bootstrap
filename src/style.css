@@ -15,7 +15,7 @@
 
 .fonte-titulo-dois {
     font-family: 'Odibee Sans', cursive;
-    color: darkred;
+    color: darkred!important;
     margin-top: 30px;
 }
 
